@@ -10,6 +10,7 @@ namespace BE_2505.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
