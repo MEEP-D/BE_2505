@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\Validate\bin\Debug\Validate.dll
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\Validate\bin\Debug\Validate.pdb
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\Validate\obj\Debug\Validate.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\Validate\obj\Debug\Validate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\Validate\obj\Debug\Validate.dll
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\Validate\obj\Debug\Validate.pdb

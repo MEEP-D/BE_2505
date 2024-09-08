@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\bin\Debug\BE_2505_Bai2.exe.config
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\bin\Debug\BE_2505_Bai2.exe
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\bin\Debug\BE_2505_Bai2.pdb
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\bin\Debug\Validate.dll
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\bin\Debug\Validate.pdb
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\obj\Debug\BE_2505_Bai2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\obj\Debug\BE_2505_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\obj\Debug\BE_2505_.F3A3766A.Up2Date
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\obj\Debug\BE_2505_Bai2.exe
+C:\Users\Admin\source\repos\BE_2505\BE_2505_Bai2\BE_2505_Bai2\obj\Debug\BE_2505_Bai2.pdb
