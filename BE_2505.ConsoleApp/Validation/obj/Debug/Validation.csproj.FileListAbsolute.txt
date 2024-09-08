@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\Validation\bin\Debug\Validation.dll
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\Validation\bin\Debug\Validation.pdb
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\Validation\obj\Debug\Validation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\Validation\obj\Debug\Validation.dll
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\Validation\obj\Debug\Validation.pdb

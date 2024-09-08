@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\bin\Debug\BE_2505.ConsoleApp.exe.config
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\bin\Debug\BE_2505.ConsoleApp.exe
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\bin\Debug\BE_2505.ConsoleApp.pdb
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\bin\Debug\Validation.dll
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\bin\Debug\Validation.pdb
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\obj\Debug\BE_2505.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\obj\Debug\BE_2505.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\obj\Debug\BE_2505..503A7937.Up2Date
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\obj\Debug\BE_2505.ConsoleApp.exe
+C:\Users\Admin\source\repos\BE_2505\BE_2505.ConsoleApp\BE_2505.ConsoleApp\obj\Debug\BE_2505.ConsoleApp.pdb
